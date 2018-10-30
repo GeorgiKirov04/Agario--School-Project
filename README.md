@@ -1,1 +1,1 @@
-# Shcool-Projrct
+# Shcool-Project
